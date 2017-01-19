@@ -103,7 +103,7 @@ El conjunto de caracteres, la representación gráfica del ahorcado, y el conjun
 
 ### Parte II-1
 
-Haga el diseño del modelo de clases del patrón de fábrica abstracta aplicado en este contexto (no es necesario incluir las clases del juego original en el diagrama). Recuerde tener en cuenta: productos abstractos, productos concretos, fábricas abstractas, fábricas concretas. El diagrama debe mostrar métodos incluye cada clase.
+Clone el proyecto de este repositorio, analice la funcionalidad de la aplicación, y haga el diseño del modelo de clases del patrón de fábrica abstracta aplicado en este contexto (no es necesario incluir las clases del juego original en el diagrama). Recuerde tener en cuenta: productos abstractos, productos concretos, fábricas abstractas, fábricas concretas. El diagrama debe mostrar métodos incluye cada clase.
 
 ### Parte II-2
 
