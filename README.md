@@ -122,6 +122,7 @@ Haga la implementación y rectifique que (1) se pueda cambiar la región objetiv
 
 		1. En los fuentes de la vista o del control del juego no debe existir ninguna referencia a elementos que hagan referencia a una región en particular.
 		2. Las abstracciones identificadas no dependen de la capa de presentación (por ejemplo, no se debería tener algo de tipo JPanel como producto abstracto).
+		3. Los productos concretos NO tienen código repetido entre sí (si esto es así, hay otro problema en el diseño).
 		
 	* Funcionalidad.
 
