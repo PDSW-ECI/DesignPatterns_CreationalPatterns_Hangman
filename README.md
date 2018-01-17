@@ -1,5 +1,5 @@
-#Escuela Colombiana de Ingeniería
-##Procesos de Desarrollo de Software - PDSW
+# Escuela Colombiana de Ingeniería
+## Procesos de Desarrollo de Software - PDSW
 
 
 
@@ -11,7 +11,7 @@ Entregables:
 * Parte II-1, impreso en la próxima clase.
 * Parte II-2, antes del próximo laboratorio, vía moodle.
 
-####Parte I. 
+#### Parte I. 
 El siguiente, es un modelo de clases de una aplicación que se comunica con un microcontrolador encargado de la fabricación automática de pizzas. Dichas clases encapsulan la lógica para amasar, hornear y moldear pizzas de las pizzas delgadas.
 
 ![alt text](img/Model.png "Logo Title Text 1")
@@ -73,7 +73,7 @@ Nota: Si lo desea, puede revisar una [implementación de referencia del patrón 
 
 
 
-####Parte II. 
+#### Parte II. 
 
 Ahora, va a aplicar el patrón creacional 'fábrica abstracta' para un proceso de _refactoring_ de una implementación del popular juego 'ahorcado'. El código está basado en el proyecto creado por Omar Rodriguez, Nahid Enayatzadeh, Marc Deaso, Christopher Santos, Jazmin Guerrero, y que está disponible en https://github.com/oarodrig/SwingHangman .
 
@@ -129,8 +129,7 @@ Haga la implementación y rectifique que (1) se pueda cambiar la región objetiv
 		1. Sólo con cambiar la configuración de la fábrica abstracta, debe cambiar la región objetivo del juego.
 
 
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este contenido hace parte del curso Procesos de Desarrollo de Software del programa de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería, y está licenciado como <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
 
